@@ -1,4 +1,4 @@
-# [DungeonExplorer] - DE is a enterprise reimagine of the Native DDO Game Launcher.
+# <img src="https://github.com/TormentedGothicPrincess/DungeonExplorer/blob/45208431b7582377276ae5b9eb82cd25c3ca2717/Images/about.png" width="32" height="32" alt="Launcher Icon" /> DungeonExplorer - DE is a enterprise reimagine of the Native DDO Game Launcher.
 
 A lightweight, custom Windows 11 launcher for Dungeons & Dragons Online, leveraging data from DDO Audit to enhance the pre-game experience.
 
@@ -7,7 +7,7 @@ A lightweight, custom Windows 11 launcher for Dungeons & Dragons Online, leverag
 Tip: You can drag and drop your screenshots directly into this markdown file on GitHub, and it will auto-generate the image links for you! 
 -->
 <p align="center">
-  <img src="https://github.com/TormentedGothicPrincess/DungeonExplorer/blob/45208431b7582377276ae5b9eb82cd25c3ca2717/Images/about.png" alt="Main Launcher Interface" width="700">
+  <img src="test" alt="Main Launcher Interface" width="700">
 </p>
 
 ---
