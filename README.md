@@ -58,7 +58,7 @@ powershell
 Get-FileHash .\[YourLauncherName].exe
 ```
 
-🤝 Acknowledgements & Thanks
+## 🤝 Acknowledgements & Thanks
 A huge thank you to the following organizations and projects. This launcher exists because of the vibrant ecosystem and community built around the game.
 
 Standing Stone Games & DDO
