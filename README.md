@@ -6,9 +6,7 @@ A lightweight, custom Windows 11 launcher for Dungeons & Dragons Online, leverag
 <!-- 
 Tip: You can drag and drop your screenshots directly into this markdown file on GitHub, and it will auto-generate the image links for you! 
 -->
-<p align="center">
-  <img src="test" alt="Main Launcher Interface" width="700">
-</p>
+<img src="test" alt="Main Launcher Interface" width="300">
 
 ---
 
