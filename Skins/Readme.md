@@ -1,0 +1,2 @@
+
+This will be the official skin repo for GothicBites after the release of DE. DE will have the native ability to down and install this skin repo for use. No more worrying about file structure, install locations, etc. Download & Play!
