@@ -18,47 +18,45 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 * Smart Server Discovery: Dynamic two-step IP and Port discovery via official SSG DataCenter services.
 
 ## 👥 Advanced Account Management
-Encrypted Credential Storage: Uses Windows DPAPI (Data Protection API) to encrypt passwords specifically for the local Windows user.
-Multi-Monitor Support: Assign specific accounts to launch on specific monitors automatically (perfect for multi-boxing).
-Default Account Selection: Designate a primary account to be auto-selected upon launcher startup.
-Instant Syncing: Real-time synchronization between the Account Manager and the Dashboard selector using ObservableCollections.
+* Encrypted Credential Storage: Uses Windows DPAPI (Data Protection API) to encrypt passwords specifically for the local Windows user.
+* Multi-Monitor Support: Assign specific accounts to launch on specific monitors automatically (perfect for multi-boxing).
+* Default Account Selection: Designate a primary account to be auto-selected upon launcher startup.
+* Instant Syncing: Real-time synchronization between the Account Manager and the Dashboard selector using ObservableCollections.
 
 ## 🖥️ Session & Process Management
-PID Tracking: Automatically tracks every game instance launched through Dungeon Explorer.
-Live Performance Metrics: Monitor real-time CPU usage, Memory (Private Working Set), and Peak Memory usage per instance.
-Active Runtime Counter: Tracks exactly how long each game session has been active.
-Integrated Process Killer: Terminate specific game instances directly from the Dashboard with a single click.
-Dynamic Window Renaming: Automatically renames game windows from "Dungeons & Dragons Online" to "DDO - [AccountName]" for easy taskbar navigation.
+* PID Tracking: Automatically tracks every game instance launched through Dungeon Explorer.
+* Live Performance Metrics: Monitor real-time CPU usage, Memory (Private Working Set), and Peak Memory usage per instance.
+* Active Runtime Counter: Tracks exactly how long each game session has been active.
+* Integrated Process Killer: Terminate specific game instances directly from the Dashboard with a single click.
+* Dynamic Window Renaming: Automatically renames game windows from "Dungeons & Dragons Online" to "DDO - [AccountName]" for easy taskbar navigation.
 
 ## 📊 Live Dashboard Intelligence
-Real-Time Server Metrics: Integrated with the DDO Audit API to show live player counts and active group (LFM) counts.
-Failover Status Probing: Includes a Direct Port Probe fallback; if the API is down, the launcher pings the game servers directly to verify uptime.
-Automated Maintenance Detection: Automatically detects game-wide maintenance and blocks launch attempts to prevent client hangs.
-Live News Feed: A formatted RSS parser that pulls the latest Sales, Downtime Notices, and Release Notes directly into the UI with clickable links.
+* Real-Time Server Metrics: Integrated with the DDO Audit API to show live player counts and active group (LFM) counts.
+* Failover Status Probing: Includes a Direct Port Probe fallback; if the API is down, the launcher pings the game servers directly to verify uptime.
+* Automated Maintenance Detection: Automatically detects game-wide maintenance and blocks launch attempts to prevent client hangs.
+* Live News Feed: A formatted RSS parser that pulls the latest Sales, Downtime Notices, and Release Notes directly into the UI with clickable links.
 
 ## ⚙️ Deep System Integration
-Intelligent Path Detection: Includes "Quick Find" (Registry/Steam) and "Deep Search" (recursive disk scanning) to locate game files.
-INI Configuration Management: Directly reads and writes to UserPreferences.ini to manage high-res data, 64-bit toggles, and multi-boxing permissions.
-Visual Validation: Animated status indicators provide real-time feedback during file searches and validation.
-GPU Detection: Automatically detects and lists available hardware display adapters.
+* Intelligent Path Detection: Includes "Quick Find" (Registry/Steam) and "Deep Search" (recursive disk scanning) to locate game files.
+* INI Configuration Management: Directly reads and writes to UserPreferences.ini to manage high-res data, 64-bit toggles, and multi-boxing permissions.
+* Visual Validation: Animated status indicators provide real-time feedback during file searches and validation.
+* GPU Detection: Automatically detects and lists available hardware display adapters.
 
 ## 🔒 Enterprise-Grade Security
-Digital Signature Verification: Automatically verifies that dndclient64.exe is digitally signed by Standing Stone Games before launching, preventing malware spoofing.
-NTFS Folder Lockdown: Programmatically sets ACL permissions on the AppData folder so only the authorized Windows user can access settings.
-Memory Hardening: Implements aggressive RAM clearing to ensure decrypted passwords exist in memory for only a fraction of a second.
-Anti-Debug Protection: Detects and blocks the attachment of debuggers or memory-scrapers in Release builds.
+* Digital Signature Verification: Automatically verifies that dndclient64.exe is digitally signed by Standing Stone Games before launching, preventing malware spoofing.
+* NTFS Folder Lockdown: Programmatically sets ACL permissions on the AppData folder so only the authorized Windows user can access settings.
+* Memory Hardening: Implements aggressive RAM clearing to ensure decrypted passwords exist in memory for only a fraction of a second.
+* Anti-Debug Protection: Detects and blocks the attachment of debuggers or memory-scrapers in Release builds.
 
 ## 🎨 Modern UI/UX
-Themed WPF Interface: A completely custom-branded experience using the Greyhawk Gothic typeface.
-Borderless & Draggable: A modern, sleek window frame with custom minimize/hide-to-tray logic.
-System Tray Integration: Runs in the background with a persistent tray icon and context menu.
-Fluid Animations: GPU-accelerated XAML animations for hover effects, searching icons, and session transitions.
-Technologies Used:
-C# / .NET 8
-Windows Presentation Foundation (WPF)
-Win32 API (User32 / Kernel32)
-System.Security.Cryptography
-System.Text.Json & System.Xml.Linq
+* Themed WPF Interface: A completely custom-branded experience using the Greyhawk Gothic typeface.
+* Borderless & Draggable: A modern, sleek window frame with custom minimize/hide-to-tray logic.
+* System Tray Integration: Runs in the background with a persistent tray icon and context menu.
+* Fluid Animations: GPU-accelerated XAML animations for hover effects, searching icons, and session transitions.
+
+## Technologies Used:
+* C# / .NET 8 / Windows 11
+* Win32 API (User32 / Kernel32)
 
 ---
 
