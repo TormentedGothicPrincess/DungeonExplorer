@@ -10,12 +10,12 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 ---
 
 ## 🎲 Core Engine & High-Performance Launching
-Legendary Server Optimized: Tailored specifically for the newest DDO server architecture (Shadowdale, Thrane, Moonsea, Cormyr).
-Global Login System (GLS) Integration: Native C# implementation of the SOAP 1.1 authentication protocol.
-Subscription Discovery: Automatically detects and utilizes the correct Subscription ID (DDO1, etc.), bypassing character selection hang-ups.
-World Queue Gatekeeper Handshake: Performs the mandatory "Take a Number" handshake with SSG servers, solving the common "Logon Server is Full" error.
-Modern 64-Bit Support: Fully compatible with the dndclient64.exe client and modern command-line arguments.
-Smart Server Discovery: Dynamic two-step IP and Port discovery via official SSG DataCenter services.
+* Legendary Server Optimized: Tailored specifically for the newest DDO server architecture (Shadowdale, Thrane, Moonsea, Cormyr).
+* Global Login System (GLS) Integration: Native C# implementation of the SOAP 1.1 authentication protocol.
+* Subscription Discovery: Automatically detects and utilizes the correct Subscription ID (DDO1, etc.), bypassing character selection hang-ups.
+* World Queue Gatekeeper Handshake: Performs the mandatory "Take a Number" handshake with SSG servers, solving the common "Logon Server is Full" error.
+* Modern 64-Bit Support: Fully compatible with the dndclient64.exe client and modern command-line arguments.
+* Smart Server Discovery: Dynamic two-step IP and Port discovery via official SSG DataCenter services.
 
 ## 👥 Advanced Account Management
 Encrypted Credential Storage: Uses Windows DPAPI (Data Protection API) to encrypt passwords specifically for the local Windows user.
