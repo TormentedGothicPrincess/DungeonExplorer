@@ -28,7 +28,7 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 * Live Performance Metrics: Monitor real-time CPU usage, Memory (Private Working Set), and Peak Memory usage per instance.
 * Active Runtime Counter: Tracks exactly how long each game session has been active.
 * Integrated Process Killer: Terminate specific game instances directly from the Dashboard with a single click.
-* Dynamic Window Renaming: Automatically renames game windows from "Dungeons & Dragons Online" to "DDO - [AccountName]" for easy taskbar navigation.
+* Dynamic Window Renaming: Automatically renames game windows from "Dungeons & Dragons Online" to "[AccountName]" for easy taskbar navigation.
 
 ## 📊 Live Dashboard Intelligence
 * Real-Time Server Metrics: Integrated with the DDO Audit API to show live player counts and active group (LFM) counts.
