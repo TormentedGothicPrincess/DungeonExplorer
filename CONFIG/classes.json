@@ -1,1 +1,128 @@
+[
+  {
+    "class": "Alchemist",
+    "type": "Standard Class",
+    "vibe_description": "A manic scientist throwing volatile potions and mixing chemicals on the fly. You solve problems with explosions and experimental mutagens."
+  },
+  {
+    "class": "Artificer",
+    "type": "Standard Class",
+    "vibe_description": "The mad scientist who replaces a missing arm with a cannon. You solve every problem with a spell, a schematic, and an aggressively large wrench."
+  },
+  {
+    "class": "Barbarian",
+    "type": "Standard Class",
+    "vibe_description": "Pure, unfiltered rage translated into physical form. You don't need fancy armor because your sheer anger allows you to shrug off being set on fire."
+  },
+  {
+    "class": "Bard",
+    "type": "Standard Class",
+    "vibe_description": "The chaotic catalyst of the group. You weaponize charisma, playing a lute and cracking jokes while convincing dragons to fight each other."
+  },
+  {
+    "class": "Cleric",
+    "type": "Standard Class",
+    "vibe_description": "The responsible lifeline who keeps everyone from dying. You are a holy powerhouse heavily armed with healing magic and unwavering devotion."
+  },
+  {
+    "class": "Druid",
+    "type": "Standard Class",
+    "vibe_description": "The ultimate nature lover who can (and will) turn into a grizzly bear to solve your problems. You commune with mushrooms and the forest floor."
+  },
+  {
+    "class": "Favored Soul",
+    "type": "Standard Class",
+    "vibe_description": "Chosen directly by the gods without needing to study holy books. You effortlessly channel divine magic with an angelic grace and a heavy weapon."
+  },
+  {
+    "class": "Fighter",
+    "type": "Standard Class",
+    "vibe_description": "The ultimate master of combat. Whether you prefer a massive greatsword or a tactical bow, you hit harder and swing more times than anyone else."
+  },
+  {
+    "class": "Monk",
+    "type": "Standard Class",
+    "vibe_description": "A zen martial artist dodging traps and catching arrows. Your hands are lethal weapons, and you move across the battlefield like a breeze."
+  },
+  {
+    "class": "Paladin",
+    "type": "Standard Class",
+    "vibe_description": "The righteous crusader with a glowing sword and uncompromising morals. You specialize in massive critical hits and tanking hits for your squishier friends."
+  },
+  {
+    "class": "Ranger",
+    "type": "Standard Class",
+    "vibe_description": "The wilderness survivalist who never gets lost. You are the master of tracking targets, sniping from the shadows, and bonding with magical beasts."
+  },
+  {
+    "class": "Rogue",
+    "type": "Standard Class",
+    "vibe_description": "The stealthy opportunist who can pick any lock and dodge any fireball. You prefer to hide in the darkness and strike precisely when the enemy least expects it."
+  },
+  {
+    "class": "Sorcerer",
+    "type": "Standard Class",
+    "vibe_description": "Raw, chaotic magic bubbling inside your blood. You don't study spells; you simply alter reality through sheer force of personality."
+  },
+  {
+    "class": "Warlock",
+    "type": "Standard Class",
+    "vibe_description": "You made a pact with an otherworldly entity for power, and now you have to pay the cosmic bills. Your combat style revolves around casting your favorite magical blast over and over."
+  },
+  {
+    "class": "Wizard",
+    "type": "Standard Class",
+    "vibe_description": "The consummate academic who memorized the entire library. You spend weeks preparing the perfect spell, but panic the moment someone takes a swing at you."
+  },
+  {
+    "class": "Sacred Fist",
+    "type": "Standard Class",
+    "vibe_description": "A devout holy warrior who channels divine wrath through their bare fists. You deliver literal right hooks of righteous judgment."
+  },
+  {
+    "class": "Dark Apostate",
+    "type": "Standard Class",
+    "vibe_description": "A sinister cleric who rejected the light to preach heresy. You weaponize shadows, curses, and the inevitable chill of undeath."
+  },
+  {
+    "class": "Stormsinger",
+    "type": "Standard Class",
+    "vibe_description": "A tempestuous performer whose melodies summon thunderclaps and lightning. Your music doesn't just soothe the soul; it tears down buildings."
+  },
+  {
+    "class": "Blightcaster",
+    "type": "Standard Class",
+    "vibe_description": "A druid who embraces the toxic, decaying, and poisonous side of nature. You control swarms, rot, and the fungal collapse of your enemies."
+  },
+  {
+    "class": "Acolyte of the Skin",
+    "type": "Standard Class",
+    "vibe_description": "A spellcaster who literally wore a fiendish entity's skin to gain forbidden power. Your vibe is high-risk, terrifying, and deeply unnatural."
+  },
+  {
+    "class": "Dark Hunter",
+    "type": "Standard Class",
+    "vibe_description": "A grim ranger who stalks prey in the deepest subterranean caverns. You are the ultimate underground assassin, striking from total darkness."
+  },
+  {
+    "class": "Dragon Lord",
+    "type": "Standard Class",
+    "vibe_description": "A commanding tactician who fights with the terrifying presence and overwhelming majesty of a true dragon. You dominate the battlefield through fear."
+  },
+  {
+    "class": "Wild Mage",
+    "type": "Standard Class",
+    "vibe_description": "An unpredictable caster playing Russian roulette with reality. Your spell might vaporize the boss, or it might turn your entire party pink."
+  },
+  {
+    "class": "Dragon Disciple",
+    "type": "Standard Class",
+    "vibe_description": "A warrior slowly transforming into a dragon from the inside out. You grow scales, breathe fire, and slowly lose your human limits."
+  },
+  {
+    "class": "Arcane Trickster",
+    "type": "Standard Class",
+    "vibe_description": "A mischievous thief who uses illusions and invisible magic hands to pick pockets from across the room. You are annoying, elusive, and deadly."
+  }
+]
 
