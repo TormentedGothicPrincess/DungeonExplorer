@@ -1,1 +1,142 @@
-
+[
+  {
+    "Race": "Aasimar",
+    "Type": "Standard Races",
+    "Vibe Description": "Divine main character energy. Features literal glowing halos and a \"chosen one\" savior complex."
+  },
+  {
+    "Race": "Dhampir",
+    "Type": "Standard Races",
+    "Vibe Description": "The edgy, brooding anti-hero. Think Alucard or Vampire Hunter D but with optimal min-maxed stats."
+  },
+  {
+    "Race": "Dragonborn",
+    "Type": "Standard Races",
+    "Vibe Description": "Pure shonen dragon warrior muscle. Loud, breathes fire, and looks like a terrifying boss monster."
+  },
+  {
+    "Race": "Drow Elf",
+    "Type": "Standard Races",
+    "Vibe Description": "The classic misunderstood rival. Dual-wielding, dark aesthetic, and constant internal monologue about shadows."
+  },
+  {
+    "Race": "Dwarf",
+    "Type": "Standard Races",
+    "Vibe Description": "The gruff, tanky blacksmith archetype. Unshakable resolve, loves gold, and yells loudly during battle."
+  },
+  {
+    "Race": "Eladrin",
+    "Type": "Standard Races",
+    "Vibe Description": "Ethereal, seasonal magical girl or boy. Changes elements based on their mood swings and current feelings."
+  },
+  {
+    "Race": "Elf",
+    "Type": "Standard Races",
+    "Vibe Description": "Elegant, timeless archer prodigy. Moves with absolute grace while looking down on everyone else."
+  },
+  {
+    "Race": "Gnome",
+    "Type": "Standard Races",
+    "Vibe Description": "The hyperactive, chaotic mad scientist. Constantly building explosive gadgets that work exactly half the time."
+  },
+  {
+    "Race": "Half-Elf",
+    "Type": "Standard Races",
+    "Vibe Description": "The versatile \"Jack of all trades\" protagonist. Fits into any guild and learns any skill instantly."
+  },
+  {
+    "Race": "Half-Orc",
+    "Type": "Standard Races",
+    "Vibe Description": "Pure physical power and gym-bro energy. Solves every single problem by punching it directly in the face."
+  },
+  {
+    "Race": "Halfling",
+    "Type": "Standard Races",
+    "Vibe Description": "Sneaky, lucky thief archetype. Eats five meals a day but dodges literal lightning bolts with ease."
+  },
+  {
+    "Race": "Human",
+    "Type": "Standard Races",
+    "Vibe Description": "The relatable everyman hero. No flashy powers, just raw determination, grit, and plot armor."
+  },
+  {
+    "Race": "Shifter",
+    "Type": "Standard Races",
+    "Vibe Description": "Beast-mode transformation sequence. Activates feral rage, grows claws, and unleashes the inner wild animal."
+  },
+  {
+    "Race": "Tabaxi",
+    "Type": "Standard Races",
+    "Vibe Description": "The hyper-fast, zoomies-fueled cat-person. Parks on high ledges and attacks with overwhelming speed."
+  },
+  {
+    "Race": "Tiefling",
+    "Type": "Standard Races",
+    "Vibe Description": "Stylized demon-blood rebel. Flashy fire magic, sharp horns, and a mischievous, Smug-face attitude."
+  },
+  {
+    "Race": "Warforged",
+    "Type": "Standard Races",
+    "Vibe Description": "Mecha anime protagonist. A sentient robot searching for a soul while tanking heavy artillery."
+  },
+  {
+    "Race": "Wood Elf",
+    "Type": "Standard Races",
+    "Vibe Description": "Wild, forest-dwelling survivalist. Lives in nature, speaks to animals, and runs incredibly fast through trees."
+  },
+  {
+    "Race": "Aasimar Scourge",
+    "Type": "Iconic Race",
+    "Vibe Description": "Dual-wielding holy avenger. Relentless zealot who hunts down evil with absolute, blinding fury."
+  },
+  {
+    "Race": "Bladeforged",
+    "Type": "Iconic Race",
+    "Vibe Description": "Sentient Gundam paladin. Literally built for holy warfare, heavy armor, and executing absolute justice."
+  },
+  {
+    "Race": "Chaosmancer",
+    "Type": "Iconic Race",
+    "Vibe Description": "Eldritch magical girl. Channels volatile, multi-colored chaos magic from a highly questionable patron."
+  },
+  {
+    "Race": "Dark Bargainer",
+    "Type": "Iconic Race",
+    "Vibe Description": "Forbidden magic specialist. Signed a shady contract for ultimate power and acts completely smug about it."
+  },
+  {
+    "Race": "Deep Gnome",
+    "Type": "Iconic Race",
+    "Vibe Description": "The underground illusions master. Sneaky wizard who manipulates reality while hiding in plain sight."
+  },
+  {
+    "Race": "Morninglord",
+    "Type": "Iconic Race",
+    "Vibe Description": "Radiant sun priest. Shoats massive beams of blinding holy light to vaporize entire armies of undead."
+  },
+  {
+    "Race": "Purple Dragon Knight",
+    "Type": "Iconic Race",
+    "Vibe Description": "Stoic, chivalrous knight captain. Commands the battlefield with inspiring speeches and heavy shield bashes."
+  },
+  {
+    "Race": "Razorclaw Shifter",
+    "Type": "Iconic Race",
+    "Vibe Description": "Berserker wolverine energy. Lunges across the screen in a blurry frenzy of claws and screams."
+  },
+  {
+    "Race": "Scoundrel",
+    "Type": "Iconic Race",
+    "Vibe Description": "Flashy, violin-playing trickster. Performs elegant musical solos while setting the entire room on fire."
+  },
+  {
+    "Race": "Shadar-kai",
+    "Type": "Iconic Race",
+    "Vibe Description": "Chain-spinning ninja assassin. Teleports through shadows and sweeps enemies off their feet with spiked chains."
+  },
+  {
+    "Race": "Tabaxi Trailblazer",
+    "Type": "Iconic Race",
+    "Vibe Description": "High-speed acrobatic scout. Vaults off walls with a quarterstaff, moving way too fast to track."
+  }
+]
