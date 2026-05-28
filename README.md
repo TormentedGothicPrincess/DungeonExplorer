@@ -90,7 +90,7 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 2. Download the latest version of `DungeonExplorerInstaller.msi`.
 
 ### Step 2: Installation & First Run
-1. Move the `.exe` file to your preferred directory (e.g., a dedicated folder on your Desktop or your game installation directory).
+1. Move the `.msi` file to your preferred directory (e.g., a dedicated folder on your Desktop or your game installation directory).
 2. Launch the application. 
 3. *[Optional Step]* Choose a custom install directory.
 
