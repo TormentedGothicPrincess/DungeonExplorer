@@ -13,10 +13,9 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 | :---: | :---: |
 | <a href="https://githubusercontent.com"><img src="https://githubusercontent.com" width="350" alt="Main Window Left 1"></a> | <a href="https://githubusercontent.com"><img src="https://githubusercontent.com" width="350" alt="Main Window Right 1"></a> |
 | **Bottom Left** | **Bottom Right** |
-| <a href="https://githubusercontent.com"><img src="https://githubusercontent.com" width="350" alt="Main Window Left 2"></a> | <a href="https://githubusercontent.com"><img src="https://githubusercontent.com" width="350" alt="Main Window Right 2"></a> |
+| <a href="https://githubusercontent.com"><img src="https://githubusercontent.com" width="350" alt="Main Window Left 1"></a> | <a href="https://githubusercontent.com"><img src="https://githubusercontent.com" width="350" alt="Main Window Right 1"></a> |
 
 </div>
-
 
 
 ---
