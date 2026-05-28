@@ -5,7 +5,7 @@ DE is a enterprise reimagine of the Native Dungeons & Dragons Online Game Launch
 <!-- 
 Tip: You can drag and drop your screenshots directly into this markdown file on GitHub, and it will auto-generate the image links for you! 
 -->
-[<img src="test" alt="Main Launcher Interface" width="300">](https://github.com/TormentedGothicPrincess/DungeonExplorer/blob/main/Images/Main%20Window.png?raw=true)
+[<img src="test" alt="Main Launcher Interface" width="300">](https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Main%20Window.png)
 
 ---
 
