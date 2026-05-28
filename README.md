@@ -71,34 +71,39 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 * Fluid Animations: GPU-accelerated XAML animations for hover effects, searching icons, and session transitions.
 
 ## Technologies Used:
-* C# / .NET 8 / Windows 11
+* C# / .NET 8 HP Enterprise Core / Windows 11 Ent
 * Win32 API (User32 / Kernel32)
 
+---
+
+### ⚠️ **Limitations** 
+Currently not supported: Game Patching ( backlog )
 ---
 
 ## 🚀 Download & Installation
 
 ### Step 1: Download the Release
 1. Navigate to the **Releases** section on the right side of this GitHub repository.
-2. Download the latest version of `[YourLauncherName].exe`.
+2. Download the latest version of `DungeonExplorerInstaller.msi`.
 
 ### Step 2: Installation & First Run
 1. Move the `.exe` file to your preferred directory (e.g., a dedicated folder on your Desktop or your game installation directory).
 2. Launch the application. 
-3. *[Optional Step]* If prompted, point the launcher to your official `TurbineLauncher.exe` or game directory.
+3. *[Optional Step]* Choose a custom install directory.
 
 > ⚠️ **Windows SmartScreen / Antivirus Note:** 
-> Because this is a custom, unsigned binary and the source code is private, Windows Defender or your antivirus may trigger a "False Positive" warning (like SmartScreen protecting your PC). This is completely normal for independent indie tools. You may need to click *"More Info"* and *"Run Anyway"*, or add an exclusion in your antivirus settings.
+> Because this is a custom, non-CA signed binary (self-signed) and the source code is private, Windows Defender or your antivirus may trigger a "False Positive" warning (like SmartScreen protecting your PC). This is completely normal for independent indie tools. You may need to click *"More Info"* and *"Run Anyway"*, or add an exclusion in your antivirus settings.
 
 ---
 
 ## 🔒 Security & Verification
-To ensure your download has not been tampered with, you can verify the file integrity using the SHA-256 checksum provided in the Release notes.
+To ensure your download has not been tampered with, you can verify the file integrity using the SHA-256 checksum provided in the Release notes as Checksum.txt
 
 **How to verify via Windows PowerShell:**
 ```
 powershell
-Get-FileHash .\[YourLauncherName].exe
+Before install: -> Get-FileHash .\DungeonExplorerInstaller.msi.exe
+After install: -> Get-FileHash .\DungeonExplorer.msi.exe
 ```
 
 ## 🤝 Acknowledgements & Thanks
