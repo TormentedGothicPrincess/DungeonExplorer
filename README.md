@@ -70,9 +70,16 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 * System Tray Integration: Runs in the background with a persistent tray icon and context menu.
 * Fluid Animations: GPU-accelerated XAML animations for hover effects, searching icons, and session transitions.
 
-## Technologies Used:
-* C# / .NET 8 HP Enterprise Core / Windows 11 Ent
-* Win32 API (User32 / Kernel32)
+## Requirements:
+* Internet Connection
+* Windows 10 / 11 ( recommended Win 11 )
+* .NET Core Desktop Runtime 8.0.22+ ( recommended 10.x ), Installer should Prompt to install by MS.
+* Dungeons & Dragons Online Game ( recommended High Res textures )
+* Dungeons & Dragons Online Native Launcher ( required for patching )
+* 8 GB of RAM ( recommended 16 GB )
+* 6 GB GPU with at least 100 streams/cores ( recommended 500+ )
+* 50 MB of HD
+* Sound
 
 ---
 
