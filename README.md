@@ -7,10 +7,12 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 -->
 
 <div align="center">
+  <p>
 | Left Column | Right Column |
 | :---: | :---: |
 | <a href="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Main%20Window.png"><img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Main%20Window.png" width="350" alt="Main Window Left 1"></a> | <a href="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Main%20Window.png"><img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Main%20Window.png" width="350" alt="Main Window Right 1"></a> |
 | <a href="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Main%20Window.png"><img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Main%20Window.png" width="350" alt="Main Window Left 2"></a> | <a href="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Main%20Window.png"><img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Main%20Window.png" width="350" alt="Main Window Right 2"></a> |
+  </p>
 </div>
 
 
