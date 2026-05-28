@@ -98,7 +98,8 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 > Because this is a custom, non-CA signed binary (self-signed) and the source code is private, Windows Defender or your antivirus may trigger a "False Positive" warning (like SmartScreen protecting your PC). This is completely normal for independent indie tools. You may need to click *"More Info"* and *"Run Anyway"*, or add an exclusion in your antivirus settings.
 
 > ⚠️ **Limitations:** 
-> Patching Not Supported ( you will still need the Native DDO Launcher for this ). It is planned and in backlog.
+> 1. Patching Not Supported ( you will still need the Native DDO Launcher for this ). It is planned and in backlog.
+> 2. Character Transfers ( this might not be something I support ).
 
 ---
 
