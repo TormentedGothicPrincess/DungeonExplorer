@@ -108,7 +108,7 @@ To ensure your download has not been tampered with, you can verify the file inte
 **How to verify via Windows PowerShell:**
 ```
 powershell
-Before install: -> Get-FileHash .\DungeonExplorerInstaller.msi.exe
+Before install: -> Get-FileHash .\DungeonExplorerInstaller.msi
 After install: -> Get-FileHash .\DungeonExplorer.msi.exe
 ```
 
