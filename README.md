@@ -20,6 +20,12 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 | :---: | :---: |
 | <a href="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Skin%20Management.png"><img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Skin%20Management.png" width="350" alt="Main Window Left 1"></a> | <a href="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Friend%20Management.png"><img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Friend%20Management.png" width="350" alt="Main Window Left 1"></a> |
 
+<br>
+
+| Account Manager | Account Compendium |
+| :---: | :---: |
+| <a href="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Account%20Management.png"><img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Account%20Management.png" width="350" alt="Main Window Left 1"></a> | <a href="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Account%20Compendium.png"><img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Account%20Compendium.png" width="350" alt="Main Window Left 1"></a> |
+
 </div>
 
 
@@ -38,6 +44,12 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 * Multi-Monitor Support: Assign specific accounts to launch on specific monitors automatically (perfect for multi-boxing).
 * Default Account Selection: Designate a primary account to be auto-selected upon launcher startup.
 * Instant Syncing: Real-time synchronization between the Account Manager and the Dashboard selector using ObservableCollections.
+
+## 📕 The Vault: Digital Account Compendium
+* The Vault (Digital Compendium): A cinematic, slide-down overlay that showcases your account's unlocked adventure packs and expansions.
+* Cloud-Synced Metadata: Automatically maps raw account entitlements to rich metadata, including lore descriptions, release history, and high-resolution "book cover" art fetched from GitHub.
+* Intelligent Background Caching: Features a dedicated synchronization engine that pre-fetches and caches assets locally in %AppData% using extensionless blobs for maximum performance and offline availability.
+* Cinematic UI Experience: Utilizes high-performance WPF Storyboards for smooth mechanical sliding effects and elegant cross-fade transitions between library items.
 
 ## 🖥️ Session & Process Management
 * PID Tracking: Automatically tracks every game instance launched through Dungeon Explorer.
