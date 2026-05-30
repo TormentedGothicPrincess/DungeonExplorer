@@ -2,13 +2,283 @@
   {
     "Id": "DungeonExplorerComp_TanglerootGorge",
     "Title": "Tangleroot Gorge",
-    "Description": "Southwest of Stormreach is Tangleroot Gorge, home of ferocious hobgoblins, \r\ndeadly spiders, and bugbear and troglodyte tribes. The terrible hobgoblin\r\nfortress of Splinterskull is in the midst of it all. At the behest of the hobgoblin\r\nChief Ungurz you begin your Assault on Splinterskull and try to survive the\r\nformidable black widow Whisperdoom and her vicious spawn!",
-    "ReleaseInfo": "Tangleroot Gorge is an adventure pack for Dungeons & Dragons Online set in Tangleroot \r\nGorge near tormreach. The adventure pack was made part of the pre-release Public Beta\r\nTest Module 0 onJanuary 24, 2006."
+    "Description": "Southwest of Stormreach is Tangleroot Gorge, home of ferocious hobgoblins, deadly spiders, and bugbear and troglodyte tribes. The terrible hobgoblin fortress of Splinterskull is in the midst of it all. At the behest of the hobgoblin Chief Ungurz you begin your Assault on Splinterskull and try to survive the formidable black widow Whisperdoom and her vicious spawn!",
+    "ReleaseInfo": "Tangleroot Gorge was made part of the pre-release Public Beta Test Module 0 on January 24, 2006."
   },
   {
     "Id": "DungeonExplorerComp_SandsOfMenechtarun",
     "Title": "Demon Sands of Menechtarun",
     "Description": "The sprawling dunes of Menechtarun hide deadly secrets and are home to powerful new enemies. Beware - despite these new monsters your most dangerous enemy might now be another adventurer…",
-    "ReleaseInfo": "25th Oct, 2006"
+    "ReleaseInfo": "Module 3.0: Demon Sands was released on October 25, 2006."
+  },
+  {
+    "Id": "DungeonExplorerComp_Blades1",
+    "Title": "The Sharn Syndicate",
+    "Description": "A criminal organization known as the Sharn Syndicate has infiltrated Stormreach. From the rooftops of the Marketplace to the depths of the sewers, you must thwart their schemes and recover stolen treasures before they vanish into the shadows.",
+    "ReleaseInfo": "Update 4: Sentinels was released on April 7, 2010."
+  },
+  {
+    "Id": "DungeonExplorerComp_Carnival",
+    "Title": "Phiarlan Carnival",
+    "Description": "Step right up to the Phiarlan Carnival! Behind the curtain of House Phiarlan's entertainment lies a sinister plot involving a missing performer and a twisted marionette. Investigate the carnival grounds and the suspicious 'Partycrashers'.",
+    "ReleaseInfo": "Update 5: Rise of the Ravager was released on June 28, 2010."
+  },
+  {
+    "Id": "DungeonExplorerComp_Castles",
+    "Title": "The Lost Gatekeepers",
+    "Description": "The Gatekeepers have established a new grove outside Stormreach, and some of their recently recruited initiates have gone missing. Journey through the Cerulean Hills to stop a corruptive force from taking root in the wild.",
+    "ReleaseInfo": "Update 46: The Lost Gatekeepers was released on April 23, 2020."
+  },
+  {
+    "Id": "DungeonExplorerComp_Catacombs",
+    "Title": "The Catacombs",
+    "Description": "Beneath the Silver Flame Cathedral lies a sprawling labyrinth of tombs. A darkness has taken hold, and the Archbishop's personal guard has gone missing. Brave the undead-infested halls to restore light to the Cathedral's basement.",
+    "ReleaseInfo": "The Catacombs was a launch adventure pack released on February 28, 2006."
+  },
+  {
+    "Id": "DungeonExplorerComp_Classic_Hag",
+    "Title": "Shadow Over Wheloon",
+    "Description": "The city of Wheloon has been turned into a sprawling prison, and a dark shadow from the Shadowfell looms over its walls. Infiltrate the prison city and confront the Sharran cultists who seek to plunge Cormyr into darkness.",
+    "ReleaseInfo": "Released with the Shadowfell Conspiracy expansion on August 19, 2013."
+  },
+  {
+    "Id": "DungeonExplorerComp_Classic_Keep",
+    "Title": "Keep on the Borderlands",
+    "Description": "Experience a classic D&D adventure! Travel to the borderlands where a lonely Keep stands watch against the Caves of Chaos. Defend the settlers from rampaging humanoids and explore the treacherous hills.",
+    "ReleaseInfo": "Update 44: Keep on the Borderlands was released on November 13, 2019."
+  },
+  {
+    "Id": "DungeonExplorerComp_Classic_Slave",
+    "Title": "Against the Slave Lords",
+    "Description": "A series of disappearances has led to the discovery of a sinister organization known as the Slave Lords. Brave the hidden dangers of the Drachensgrab Hills and infiltrate their stronghold to liberate their captives.",
+    "ReleaseInfo": "Update 32: Against the Slave Lords was released on September 14, 2016."
+  },
+  {
+    "Id": "DungeonExplorerComp_Classic_TOEE",
+    "Title": "Temple of Elemental Evil",
+    "Description": "Evil is stirring once again in the ruins of the Temple of Elemental Evil. Descend into its depths to face cultists of Air, Earth, Fire, and Water, and ultimately confront the ancient evil that seeks to reclaim its throne.",
+    "ReleaseInfo": "Update 25: Reign of Elemental Evil was released on April 6, 2015."
+  },
+  {
+    "Id": "DungeonExplorerComp_Codex",
+    "Title": "The Codex War",
+    "Description": "The struggle for the Codex of the Infinite Planes reaches its peak. Confront the forces of Xoriat and the Shroud in legendary versions of DDO's most iconic raids to protect the fabric of reality itself.",
+    "ReleaseInfo": "Update 29: Codex of the Infinite Planes was released on December 16, 2015."
+  },
+  {
+    "Id": "DungeonExplorerComp_CrimeWave",
+    "Title": "The Sharn Syndicate (Legacy)",
+    "Description": "The Marketplace is under siege by the Sharn Syndicate. This legacy entitlement covers the early urban intrigue quests involving the recovery of House Phiarlan artifacts and stopping the Syndicate's local expansion.",
+    "ReleaseInfo": "Legacy tag for Sharn Syndicate, originally Update 4."
+  },
+  {
+    "Id": "DungeonExplorerComp_Deleras",
+    "Title": "Delera's Tomb",
+    "Description": "Join the investigator Derek Delera in a search for the tomb's namesake. Deep within the House Jorasco graveyard, a great treasure—and a greater curse—awaits those brave enough to challenge the restless spirits.",
+    "ReleaseInfo": "Released in Module 1: The Dragon's Vault on April 5, 2006."
+  },
+  {
+    "Id": "DungeonExplorerComp_Droaam2",
+    "Title": "Attack on Stormreach",
+    "Description": "The Lords of Dust have set their sights on Stormreach. The Droaam army is at the gates, and you must defend the city's key districts from an overwhelming force of orcs, gnolls, and medusas.",
+    "ReleaseInfo": "Update 7: Attack on Stormreach was released on October 20, 2010."
+  },
+  {
+    "Id": "DungeonExplorerComp_Swamp",
+    "Title": "The Red Fens",
+    "Description": "Deep in the humid marshes of the Red Fens, the Sahaugin are planning an invasion of Stormreach. Help the local Fens-dwellers defend their homes and recover an ancient artifact to turn the tide.",
+    "ReleaseInfo": "Update 6: Half-Bloods was released on September 8, 2010."
+  },
+  {
+    "Id": "DungeonExplorerComp_Dreaming",
+    "Title": "The Dreaming Dark",
+    "Description": "Venture into the Realm of Dreams to stop the Quori from manipulating the minds of Stormreach citizens. Face the horrors of the subconscious in a battle against the Inspired and their dark masters.",
+    "ReleaseInfo": "Module 9.0: Eberron Unlimited was released on September 1, 2009."
+  },
+  {
+    "Id": "DungeonExplorerComp_Shantokor",
+    "Title": "The Seal of Shan-To-Kor",
+    "Description": "Descend into the steam tunnels of the Marketplace to find the legendary Seal of Shan-To-Kor. The hobgoblin tribes of the Sharn Syndicate are using the tunnels to plot their next move against the city.",
+    "ReleaseInfo": "Launch Adventure Pack, released February 28, 2006."
+  },
+  {
+    "Id": "DungeonExplorerComp_Inspired",
+    "Title": "The Path of Inspiration",
+    "Description": "The Inspired have arrived in Stormreach, claiming to offer peace and enlightenment. Investigate their new 'harbor' and discover the sinister truth behind their mind-altering influence.",
+    "ReleaseInfo": "Released with Module 9: Eberron Unlimited in September 2009."
+  },
+  {
+    "Id": "DungeonExplorerComp_SorrowduskIsles",
+    "Title": "Sorrowdusk Isle",
+    "Description": "The Cult of Six is attempting to summon a powerful demon. Navigate the dangerous cliffs of Sorrowdusk Isle, home to ogres and grey renders, to stop the ritual before it's too late.",
+    "ReleaseInfo": "Released in Module 2: The Twilight Forge on July 12, 2006."
+  },
+  {
+    "Id": "DungeonExplorerComp_Necropolis",
+    "Title": "The Necropolis, Part 1",
+    "Description": "The Black Abbot's influence begins to spread through the tombs of the Upper Necropolis. Stop the Emerald Claw from harnessing the power of the undead in the Bloody Crypt.",
+    "ReleaseInfo": "Module 4.1: The Necropolis was released on June 13, 2007."
+  },
+  {
+    "Id": "DungeonExplorerComp_Necropolis2",
+    "Title": "The Necropolis, Part 2",
+    "Description": "The corruption deepens. Venture into the Shadow Crypt to face the expanding threat of the Silver Flame's fallen guardians and the ever-growing power of the Black Abbot.",
+    "ReleaseInfo": "Module 4.2: The Necropolis Part 2 was released on July 25, 2007."
+  },
+  {
+    "Id": "DungeonExplorerComp_Necropolis3",
+    "Title": "The Necropolis, Part 3",
+    "Description": "The third tier of the Necropolis houses the Cursed Crypt. The Black Abbot's lieutenant, the Lich, guards the secrets to immortality within the heart of the tombs.",
+    "ReleaseInfo": "Module 5: The Accursed Ascension was released on September 5, 2007."
+  },
+  {
+    "Id": "DungeonExplorerComp_Necropolis4",
+    "Title": "The Necropolis, Part 4",
+    "Description": "The final confrontation with the Black Abbot awaits in the Litany of the Dead. Only the strongest adventurers can survive the gauntlet of the four lieutenants and stop the Ascension.",
+    "ReleaseInfo": "Update 21: Mortal Fear (Expansion of legacy content) released in 2014."
+  },
+  {
+    "Id": "DungeonExplorerComp_GiantholdRuins",
+    "Title": "Ruins of Gianthold",
+    "Description": "High in the mountains of Xen'drik lies the remains of a once-great Giant civilization. Prevent the Draconic Prophecy from falling into the hands of the Stormreaver and his legion of giants.",
+    "ReleaseInfo": "Module 4: Reaver's Bane was released on April 11, 2007."
+  },
+  {
+    "Id": "DungeonExplorerComp_ThreeBarrelCove",
+    "Title": "Three-Barrel Cove",
+    "Description": "Set sail for the pirate haven of Three-Barrel Cove! Battle sea-dogs, fire giants, and undead buccaneers as you search for buried treasure and the legendary Ghost of Captain Bloodletter.",
+    "ReleaseInfo": "Module 5: The Accursed Ascension was released on September 5, 2007."
+  },
+  {
+    "Id": "DungeonExplorerComp_Sentinels",
+    "Title": "Sentinels of Stormreach",
+    "Description": "House Deneith's elite Sentinels are under attack. Track down the pirate leader 'The Iron Council' and stop their aerial assault on the city's towers in this high-flying adventure.",
+    "ReleaseInfo": "Update 4: Sentinels was released on April 7, 2010."
+  },
+  {
+    "Id": "DungeonExplorerComp_ReaversReach",
+    "Title": "Reaver's Reach",
+    "Description": "The Stormreaver's legacy continues in the floating islands of Reaver's Reach. Master the elements and prepare for a final showdown with the Reaver in the Stealer of Souls.",
+    "ReleaseInfo": "Module 8: Prisoners of Prophecy was released on October 29, 2008."
+  },
+  {
+    "Id": "DungeonExplorerComp_RestlessIsle",
+    "Title": "The Restless Isles",
+    "Description": "Home to the Wildmen and the mechanical horrors of the Twilight Forge. Navigate the treacherous landscape to find the entrance to the Titan Awakes raid.",
+    "ReleaseInfo": "Module 2: The Twilight Forge was released on July 12, 2006."
+  },
+  {
+    "Id": "DungeonExplorerComp_RuinsOfThrenal",
+    "Title": "Ruins of Threnal",
+    "Description": "Join the excavation of the ancient Threnal library. Protect the researchers from extra-planar threats and uncover the mystery of the Coyle's survival in this classic defensive gauntlet.",
+    "ReleaseInfo": "Module 1: The Dragon's Vault was released on April 5, 2006."
+  },
+  {
+    "Id": "DungeonExplorerComp_ValeOfTwilight",
+    "Title": "The Vale of Twilight",
+    "Description": "A land between worlds, the Vale is the site of a brutal planar war. Defend the Meridia refugees and face the Pit Fiend Arraetrikos in the legendary Shroud raid.",
+    "ReleaseInfo": "Module 6: The Thirteenth Eclipse was released on January 30, 2008."
+  },
+  {
+    "Id": "DungeonExplorerComp_DevilAssault",
+    "Title": "Devil Assault",
+    "Description": "The Marketplace is under direct siege! Defend the city in a brutal wave-based arena and travel back in time to witness the destruction of the marketplace in the Chronoscope raid.",
+    "ReleaseInfo": "Update 2: Celebrate Spring was released on March 17, 2010."
+  },
+  {
+    "Id": "DungeonExplorerComp_VaultOfNight",
+    "Title": "The Vault of Night",
+    "Description": "House Tharashk has discovered a legendary hoard protected by the red dragon Velah. Gather a raid party to infiltrate the heavily guarded Vault and survive the gauntlet of the Laughing Knives.",
+    "ReleaseInfo": "Released in Module 1: The Dragon's Vault on April 5, 2006."
+  },
+  {
+    "Id": "DungeonExplorerComp_Shavarath",
+    "Title": "Devils of Shavarath",
+    "Description": "Take the fight to the plane of eternal battle. Brave the Devils' Battlefield to stop the Archons and Devils from bringing their war to the gates of Stormreach.",
+    "ReleaseInfo": "Module 9.0: Eberron Unlimited was released on September 1, 2009."
+  },
+  {
+    "Id": "DungeonExplorerComp_Taken",
+    "Title": "Harbinger of Madness",
+    "Description": "Something is wrong in the Harbor. The 'Taken' are appearing in the streets, and the influence of Xoriat is warping reality. Investigate the Lord-Mayor's secrets and the flesh-warping labs.",
+    "ReleaseInfo": "Update 8: Attack on Stormreach was released on February 3, 2011."
+  },
+  {
+    "Id": "DungeonExplorerComp_Xoriat",
+    "Title": "Reign of Madness",
+    "Description": "The madness spreads to the House Jorasco asylum. Battle through the delusions of the insane and prevent the gateway to Xoriat from tearing open the fabric of Eberron.",
+    "ReleaseInfo": "Update 9: Reign of Madness was released on April 27, 2011."
+  },
+  {
+    "Id": "DungeonExplorerComp_Xoriat2",
+    "Title": "Heart of Madness",
+    "Description": "The final chapter of the Xoriat trilogy. Journey into the heart of the madness to confront the Xorian gatekeeper and stop the total assimilation of Stormreach by the Far Realm.",
+    "ReleaseInfo": "Update 23: The Mark of Death was released on October 14, 2014."
+  },
+  {
+    "Id": "DungeonExplorerComp_Desire",
+    "Title": "The High Road of Shadows",
+    "Description": "Travel the trade routes of Cormyr to the village of Eveningstar. Battle Netherese agents and protect the caravans from the shadows that haunt the High Road.",
+    "ReleaseInfo": "Update 18: Disciples of Shadow was released on June 3, 2013."
+  },
+  {
+    "Id": "DungeonExplorerComp_Shav_Archon",
+    "Title": "Trials of the Archons",
+    "Description": "The Archons of Shavarath have called for aid. Prove your worth in their trials and help them defend the celestial outposts from the encroaching demonic hordes.",
+    "ReleaseInfo": "Update 27: Trials of the Archons was released on August 20, 2015."
+  },
+  {
+    "Id": "DungeonExplorerComp_Dragonborn_1",
+    "Title": "Mists of Ravenloft",
+    "Description": "The mists pull you into a world of gothic horror. Face Lord Strahd von Zarovich in Castle Ravenloft and seek artifacts to end the nightmare of Barovia.",
+    "ReleaseInfo": "Update 37: Mists of Ravenloft expansion was released on December 6, 2017."
+  },
+  {
+    "Id": "DungeonExplorerComp_Plume",
+    "Title": "White Plume Mountain",
+    "Description": "Return to one of the most famous dungeons in D&D history. Navigate the riddles, traps, and strange hazards of the wizard Keraptis to recover legendary artifacts.",
+    "ReleaseInfo": "Update 39: White Plume Mountain was released on July 9, 2018."
+  },
+  {
+    "Id": "DungeonExplorerComp_Soul",
+    "Title": "The Soul Splitter",
+    "Description": "Investigate soul-stealing incidents in Sharn. Discover the connection between the warforged population and a mysterious force threatening to tear the city apart.",
+    "ReleaseInfo": "Update 43: The Soul Splitter was released on September 25, 2019."
+  },
+  {
+    "Id": "DungeonExplorerComp_Relic",
+    "Title": "The Mines of Tethyamar",
+    "Description": "Dwarves have uncovered riches in a long-lost outpost. Join them to take on the deadly drow and reclaim the Jewels of Ardor from the depths of the Underdark.",
+    "ReleaseInfo": "Update 36: Duel for the Underdark was released on July 17, 2017."
+  },
+  {
+    "Id": "DungeonExplorerComp_Hunt",
+    "Title": "Hunter and Hunted",
+    "Description": "Step into the wild to track a predator terrorizing the Harbor. Navigate into a realm of primeval danger where you must determine if you are the hunter or the prey.",
+    "ReleaseInfo": "Update 53: Hunter and Hunted was released on February 24, 2022."
+  },
+  {
+    "Id": "DungeonExplorerComp_Plague",
+    "Title": "Peril of the Planar Eyes",
+    "Description": "The Gatekeepers need help recovering the Planar Eyes—artifacts of immense power. Travel across the planes to stop a plague of extra-planar origin from devouring the world.",
+    "ReleaseInfo": "Update 49: Peril of the Planar Eyes was released on April 21, 2021."
+  },
+  {
+    "Id": "DungeonExplorerComp_Plant",
+    "Title": "Fables of the Feywild",
+    "Description": "Cross the veil into the Feywild! Assist the Summer Court in their conflict against the Winter Court in a vibrant, dangerous realm of myth and legend.",
+    "ReleaseInfo": "Update 48: Fables of the Feywild expansion was released on November 4, 2020."
+  },
+  {
+    "Id": "DungeonExplorerComp_Thunderholme",
+    "Title": "Ruins of Thunderholme",
+    "Description": "Deep beneath the Thunder Peaks lies the dwarven city of Thunderholme, now a city of the dead. Battle the shadows and the dragon Shadow-Fail to reclaim the lost dwarven halls.",
+    "ReleaseInfo": "Update 21: Mortal Fear was released on March 10, 2014."
+  },
+  {
+    "Id": "DungeonExplorerComp_Halls",
+    "Title": "Secrets of the Artificers",
+    "Description": "House Cannith has opened its secret manufactories. Battle rogue warforged and the Lord of Blades himself in the high-tech halls of the House of Making.",
+    "ReleaseInfo": "Update 11: Secrets of the Artificers was released on September 12, 2011."
   }
 ]
