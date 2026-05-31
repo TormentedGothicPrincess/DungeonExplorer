@@ -113,14 +113,15 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 > Because this is a custom, non-CA signed binary (self-signed) and the source code is private, Windows Defender or your antivirus may trigger a "False Positive" warning (like SmartScreen protecting your PC). This is completely normal for independent indie tools. You may need to click *"More Info"* and *"Run Anyway"*, or add an exclusion in your antivirus settings.
 
 > ⚠️ **Limitations:** 
-> 1. Patching Not Supported ( you will still need the Native DDO Launcher for this ). It is planned and in backlog.
-> 2. Installation of game ( you will still need the Native DDO Launcher for this ). It is planned and in blacklog.
-> 3. Character Transfers ( this might not be something I support, unless adoption/community feedback is positive ).
+> 1. Patching Not Supported <i>you will still need the Native DDO Launcher for this ). It is planned and in backlog</i>
+> 2. Installation of game <i>you will still need the Native DDO Launcher for this ). It is planned and in blacklog</i>
+> 3. Character Transfers <i>this might not be something I support, unless adoption/community feedback is positive</i>
 
 ---
 
 ## 🔒 Security & Verification
-To ensure your download has not been tampered with, you can verify the file integrity using the SHA-256 checksum provided in the Release notes as Checksum.txt
+* Releases are verified by  Microsoft Security Intelligence: [ insert here ] & VirusTotal: [ insert here ]
+* To ensure your download has not been tampered with, you can verify the file integrity using the SHA-256 checksum provided in the Release notes as Checksum.txt
 
 **How to verify via Windows PowerShell:**
 ```
