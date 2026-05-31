@@ -121,9 +121,9 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 
 ## 🔒 Security & Verification
 * Releases are verified by
-** <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/b83b99e4-1e52-4c42-b37d-deee99ccd869" /> Microsoft Security Intelligence
-** 🛡️ VirusTotal: [0/72 Detections](https://www.virustotal.com/gui/file/your-unique-hash-here)
-
+* <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/b83b99e4-1e52-4c42-b37d-deee99ccd869" /> Microsoft Security Intelligence
+* 🛡️ VirusTotal: [0/72 Detections](https://www.virustotal.com/gui/file/your-unique-hash-here)
+---
 * To ensure your download has not been tampered with, you can verify the file integrity using the SHA-256 checksum provided in the Release notes as Checksum.txt
 
 **How to verify via Windows PowerShell:**
