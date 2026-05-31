@@ -85,8 +85,8 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 ## Requirements:
 * Internet Connection
 * Windows 10 / 11 ( recommended Win 11 )
-* .NET Core Desktop Runtime 8.0.22+ ( recommended 10.x ), Installer should Prompt to install by MS.
-* Dungeons & Dragons Online Game ( recommended High Res textures )
+* .NET Core Desktop Runtime 8.0.22+ ( recommended 10.x ), Installer should Prompt to install by MS. <A href="https://dotnet.microsoft.com/en-us/download">Download</a>
+* Dungeons & Dragons Online Game ( recommended High Res textures ) &emsp;<A href="https://www.ddo.com/guides/ddo-download">Download</a>
 * Dungeons & Dragons Online Native Launcher ( required for patching and character transfers )
 * 8 GB of RAM ( recommended 16 GB )
 * 6 GB GPU with at least 100 streams/cores ( recommended 500+ )
