@@ -121,7 +121,7 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 
 ## 🔒 Security & Verification
 * Releases are verified by
-* 🛡️ Microsoft Security Intelligence: See the release <b><u>analysis.txt</u></b> for more info.
+* 🛡️ Microsoft Security Intelligence: See the release <b><u>analysis.txt</u></b> for more info. ${\color{red}This\space text\space is\space red}$
 * 🛡️ VirusTotal: See the release <b><u>analysis.txt</u></b> for more info.
 ---
 * To ensure your download has not been tampered with, you can verify the file integrity using the SHA-256 checksum provided in the Release notes as <b><u>checksum.txt</u></b>
