@@ -82,16 +82,21 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 * System Tray Integration: Runs in the background with a persistent tray icon and context menu.
 * Fluid Animations: GPU-accelerated XAML animations for hover effects, searching icons, and session transitions.
 
-## Requirements:
-* Internet Connection
-* Windows 10 / 11 ( recommended Win 11 )
-* .NET Core Desktop Runtime 8.0.22+ ( recommended 10.x ), Installer should Prompt to install by MS. <a href="https://dotnet.microsoft.com/en-us/download">Download</a>
-* Dungeons & Dragons Online Game ( recommended High Res textures ) <a href="https://www.ddo.com/guides/ddo-download">Download</a>
-* Dungeons & Dragons Online Native Launcher ( required for patching and character transfers )
-* 8 GB of RAM ( recommended 16 GB )
-* 6 GB GPU with at least 100 streams/cores ( recommended 500+ )
-* 50 MB of HD
-* Sound
+## 💻 System Requirements:
+
+| Component | Specification & Recommendation | Action |
+| :--- | :--- | :--- |
+| **Internet** | Active connection required for updates and data | [Visit](#) |
+| **Operating System** | Windows 10 / 11 (Recommended: **Windows 11**) | [Visit](#) |
+| **.NET Runtime** | Desktop Runtime 8.0.22+ (Recommended: **10.x**) | [Visit]([#](https://dotnet.microsoft.com/en-us/download)) |
+| **Base Game** | Dungeons & Dragons Online (**High Res textures** recommended) | [Visit](#) |
+| **Native Launcher** | Required for patching and character transfers | [Visit](#) |
+| **Memory (RAM)** | 8 GB of RAM (Recommended: **16 GB**) | [Visit](#) |
+| **Graphics (GPU)** | 6 GB GPU / 100+ streams/cores (Recommended: **500+**) | [Visit](#) |
+| **Storage** | 50 MB of available Hard Drive space | [Visit](#) |
+| **Audio** | Sound card or integrated audio output | [Visit](#) |
+
+
 
 ---
 
