@@ -128,15 +128,15 @@ After install: -> Get-FileHash .\DungeonExplorer.msi.exe
 ## 🤝 Acknowledgements & Thanks
 
 ⚔️ Credits
-Producer & Lead Developer: TormentedGothicPrincess
-Music: Adventure Begins Cinematic by APALONBeats
-Font: Greyhawk Gothic by Darlene Pekul & Anna B. Meyer
-Research: ddowiki.com, ddocompendium.com, & eberron.fandom.com
+* Producer & Lead Developer: TormentedGothicPrincess
+* Music: Adventure Begins Cinematic by APALONBeats
+* Font: Greyhawk Gothic by Darlene Pekul & Anna B. Meyer
+* Research: ddowiki.com, ddocompendium.com, & eberron.fandom.com
 
 ❤️ Special Thanks
-Standing Stone Games & Wizards of the Coast
-The DDO Audit Team & Vault of Kundarak Team
-June Stepp (OneLauncher)
-The DDO Community Discord
+* Standing Stone Games & Wizards of the Coast
+* The DDO Audit Team & Vault of Kundarak Team
+* June Stepp (OneLauncher)
+* The DDO Community Discord
 
-<i>Legal Notice: This software is an unofficial, fan-made utility provided 100% free of charge. It is not affiliated with, endorsed by, or connected to Microsoft, Standing Stone Games, Wizards of the Coast, or Hasbro, Inc. All trademarks and brand names are the property of their respective owners. © 2026-27 Dungeon Explorer Project. www.tormentedgothicprincess.com</i>
+* <i>Legal Notice: This software is an unofficial, fan-made utility provided 100% free of charge. It is not affiliated with, endorsed by, or connected to Microsoft, Standing Stone Games, Wizards of the Coast, or Hasbro, Inc. All trademarks and brand names are the property of their respective owners. © 2026-27 Dungeon Explorer Project. www.tormentedgothicprincess.com</i>
