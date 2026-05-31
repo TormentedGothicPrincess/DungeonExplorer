@@ -88,7 +88,7 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 | :--- | :--- | :--- |
 | **Internet** | Active connection required for updates and data | [Visit](#) |
 | **Operating System** | Windows 10 / 11 (Recommended: **Windows 11**) | [Visit](#) |
-| **.NET Runtime** | Desktop Runtime 8.0.22+ (Recommended: **10.x**) | [Visit]([#](https://dotnet.microsoft.com/en-us/download)) |
+| **.NET Runtime** | Desktop Runtime 8.0.22+ (Recommended: **10.x**) | [Download](https://dotnet.microsoft.com/en-us/download) |
 | **Base Game** | Dungeons & Dragons Online (**High Res textures** recommended) | [Visit](#) |
 | **Native Launcher** | Required for patching and character transfers | [Visit](#) |
 | **Memory (RAM)** | 8 GB of RAM (Recommended: **16 GB**) | [Visit](#) |
