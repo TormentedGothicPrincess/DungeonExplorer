@@ -126,10 +126,17 @@ After install: -> Get-FileHash .\DungeonExplorer.msi.exe
 ```
 
 ## 🤝 Acknowledgements & Thanks
-A huge thank you to the following organizations and projects. This launcher exists because of the vibrant ecosystem and community built around the game.
 
-Standing Stone Games & DDO
-Thank you to Standing Stone Games for continuing to maintain the world of Dungeons & Dragons Online. We are incredibly grateful for their continued support of the community's freedom to create, innovate, and explore player-driven projects. It is this creative freedom that keeps the game world thriving and alive for players old and new.
+⚔️ Credits
+Producer & Lead Developer: TormentedGothicPrincess
+Music: Adventure Begins Cinematic by APALONBeats
+Font: Greyhawk Gothic by Darlene Pekul & Anna B. Meyer
+Research: ddowiki.com, ddocompendium.com, & eberron.fandom.com
 
-DDO Audit
-A massive shoutout to the team at DDOAudit for their phenomenal community resources. By providing robust, accessible APIs and data functionality, they empower independent developers to explore their own visions and build unique utilities that elevate the entire player base.
+❤️ Special Thanks
+Standing Stone Games & Wizards of the Coast
+The DDO Audit Team & Vault of Kundarak Team
+June Stepp (OneLauncher)
+The DDO Community Discord
+
+<i>Legal Notice: This software is an unofficial, fan-made utility provided 100% free of charge. It is not affiliated with, endorsed by, or connected to Microsoft, Standing Stone Games, Wizards of the Coast, or Hasbro, Inc. All trademarks and brand names are the property of their respective owners. © 2026-27 Dungeon Explorer Project. www.tormentedgothicprincess.com</i>
