@@ -121,10 +121,10 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 
 ## 🔒 Security & Verification
 * Releases are verified by
-* 🛡️ Microsoft Security Intelligence: [0/0 Detections](https://www.microsoft.com/gui/file/your-unique-hash-here)
-* 🛡️ VirusTotal: [0/62 Detections](https://www.virustotal.com/gui/file/your-unique-hash-here)
+* 🛡️ Microsoft Security Intelligence: See the release <b><u>analysis.txt</u></b> for more info.
+* 🛡️ VirusTotal: See the release <b><u>analysis.txt</u></b> for more info.
 ---
-* To ensure your download has not been tampered with, you can verify the file integrity using the SHA-256 checksum provided in the Release notes as Checksum.txt
+* To ensure your download has not been tampered with, you can verify the file integrity using the SHA-256 checksum provided in the Release notes as <b><u>checksum.txt</u></b>
 
 **How to verify via Windows PowerShell:**
 ```
