@@ -120,7 +120,9 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 ---
 
 ## 🔒 Security & Verification
-* Releases are verified by  Microsoft Security Intelligence: [ insert here ] & VirusTotal: [ insert here ]
+* Releases are verified by <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/b83b99e4-1e52-4c42-b37d-deee99ccd869" />
+ Microsoft Security Intelligence: [ insert here ] & <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/3ef56cf5-05a8-4f66-bb29-953085a615db" />
+ VirusTotal: [ insert here ]
 * To ensure your download has not been tampered with, you can verify the file integrity using the SHA-256 checksum provided in the Release notes as Checksum.txt
 
 **How to verify via Windows PowerShell:**
@@ -144,4 +146,4 @@ After install: -> Get-FileHash .\DungeonExplorer.msi.exe
 * June Stepp (OneLauncher)
 * The DDO Community Discord
 
-</br><i>Legal Notice: This software is an unofficial, fan-made utility provided 100% free of charge. It is not affiliated with, endorsed by, or connected to Microsoft, Standing Stone Games, Wizards of the Coast, or Hasbro, Inc. All trademarks and brand names are the property of their respective owners. © 2026-27 Dungeon Explorer Project. www.tormentedgothicprincess.com</i>
+</br><i>Legal Notice: This software is an unofficial, fan-made utility provided 100% free of charge. It is not affiliated with, endorsed by, or connected to Microsoft, Standing Stone Games, Wizards of the Coast, or Hasbro, Inc. All trademarks and brand names are the property of their respective owners. If you payed or were charged for this software, report it. © 2026-27 Dungeon Explorer Project. www.tormentedgothicprincess.com</i>
