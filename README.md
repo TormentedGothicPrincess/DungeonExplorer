@@ -123,6 +123,7 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 * Releases are verified by
 * 🛡️ Microsoft Security Intelligence: See the Release Notes ${\color{red}analysis.txt}$ for more info.
 * 🛡️ VirusTotal: See the Release Notes ${\color{red}analysis.txt}$ for more info.
+* 🛡️ CrowdStrike Falcon Sandbox Verification: See the Release Notes ${\color{red}analysis.txt}$ for more info.
 ---
 * To ensure your download has not been tampered with, you can verify the file integrity using the SHA-256 ${\color{red}checksum.txt}$ provided in the Release Notes.
 
