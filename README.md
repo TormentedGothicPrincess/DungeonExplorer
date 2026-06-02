@@ -37,7 +37,6 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 
 
 |||||
-| :---: | :---: | :---: | :---: |
 | <img src="URL" width="100"> | <img src="URL" width="100"> | <img src="URL" width="100"> | <img src="URL" width="100"> |
 | <img src="URL" width="100"> | <img src="URL" width="100"> | <img src="URL" width="100"> | <img src="URL" width="100"> |
 | <img src="URL" width="100"> | <img src="URL" width="100"> | <img src="URL" width="100"> | <img src="URL" width="100"> |
