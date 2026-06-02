@@ -30,7 +30,9 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 
 </div>
 
-## 🎨 Release of the CellShader ReImagines of the Class icons for public use as well. 
+## 🎨 The CellShader ReImagines
+* Reimagine releases of the Class icons, in hi-res cellshader artistic design
+* under the same license, for public domain use!
 
 <div align="center"><b>
 
