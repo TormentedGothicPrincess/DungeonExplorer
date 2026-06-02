@@ -32,7 +32,7 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 
 ## 🎨 Release of the CellShader ReImagines of the Class icons for public use as well. 
 
-<div align="center">
+<div align="center"><b>
 
 | Alchemist | Artificer | Barbarian | Bard | Cleric | Druid | Favored Soul | Fighter |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -40,7 +40,7 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 | Monk | Paladin | Ranger | Rogue | Sorcerer | Warlock | Wizard | |
 | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/monk.png" width="100"> | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/paladin.png" width="100"> | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/ranger.png" width="100"> | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/rogue.png" width="100"> | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/sorcerer.png" width="100"> | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/warlock.png" width="100"> | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/wizard.png" width="100"> | |
   
-</div>
+</b></div>
 
 ---
 
