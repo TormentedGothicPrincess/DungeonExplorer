@@ -35,6 +35,7 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 <div align="center">
 
 | Alchemist | Artificer | Barbarian | Bard |
+| :---: | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/alchemist.png" width="100"> | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/artificer.png" width="100"> | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/barbarian.png" width="100"> | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/bard.png" width="100"> |
 | Cleric | Druid | Favored Soul | Fighter |
 | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/cleric.png" width="100"> | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/druid.png" width="100"> | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/favoredsoul.png" width="100"> | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/fighter.png" width="100"> |
