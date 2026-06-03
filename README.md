@@ -20,7 +20,7 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 | Offline | Profiles |
 | <a href="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Main%20Window%20Offline.png"><img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Main%20Window%20Offline.png" width="350" alt="Main Window Left 1"></a> | |
 
-</b></div>
+</b></div><br><br>
 
 ## 🎨 The CellShader ReImagines
 * Reimagine releases of the Class icons, in hi-res cellshader artistic design
@@ -34,7 +34,7 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 | Monk | Paladin | Ranger | Rogue | Sorcerer | Warlock | Wizard | |
 | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/monk.png" width="100"> | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/paladin.png" width="100"> | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/ranger.png" width="100"> | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/rogue.png" width="100"> | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/sorcerer.png" width="100"> | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/warlock.png" width="100"> | <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/ClassReimagines/wizard.png" width="100"> | |
   
-</b></div>
+</b></div><br><br>
 
 ---
 
