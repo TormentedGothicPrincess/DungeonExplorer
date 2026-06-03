@@ -22,8 +22,8 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 
 </b></div><br><br>
 
-## 🎨 The CellShader ReImagines
-* Reimagine releases of the Class icons, in hi-res cellshader artistic design
+## 🎨 The Cel-Shader ReImagines
+* Reimagine releases of the Class icons, in hi-res cel-shader artistic design
 * under the same license, for public domain use!
 
 <div align="center"><b>
