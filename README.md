@@ -163,4 +163,4 @@ After install: -> Get-FileHash .\DungeonExplorer.msi.exe
 * June Stepp (OneLauncher)
 * The DDO Community Discord
 
-</br><i>Legal Notice: This software is an unofficial, fan-made utility provided 100% free of charge. It is not affiliated with, endorsed by, or connected to Microsoft, Standing Stone Games, Wizards of the Coast, or Hasbro, Inc. All trademarks and brand names are the property of their respective owners. If you payed or were charged for this software, report it. © 2026-27 Dungeon Explorer Project. www.tormentedgothicprincess.com</i>
+</br><i>Legal Notice: Dungeon Explorer is proprietary freeware. By using this software, you agree to the terms outlined in our EULA and Privacy Policy. All rights reserved by TormentedGothicPrincess. This software is an unofficial, fan-made utility provided 100% free of charge. It is not affiliated with, endorsed by, or connected to Microsoft, Standing Stone Games, Wizards of the Coast, or Hasbro, Inc. All trademarks and brand names are the property of their respective owners. If you payed or were charged for this software, report it. © 2026-27 Dungeon Explorer Project. www.tormentedgothicprincess.com</i>
