@@ -28,6 +28,11 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 | :---: | :---: |
 | <a href="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Account%20Management.png"><img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Account%20Management.png" width="350" alt="Main Window Left 1"></a> | <a href="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Account%20Compendium.png"><img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Account%20Compendium.png" width="350" alt="Main Window Left 1"></a> |
 
+| Offline | Profiles |
+| :---: | :---: |
+| <a href="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Account%20Management.png"><img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Account%20Management.png" width="350" alt="Main Window Left 1"></a> | |
+
+
 </div>
 
 ## 🎨 The CellShader ReImagines
