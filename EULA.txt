@@ -1,0 +1,20 @@
+END USER LICENSE AGREEMENT (EULA) - DUNGEON EXPLORER
+
+1. GRANT OF LICENSE
+Dungeon Explorer ("The Software") is provided as Freeware for personal, non-commercial use. You are granted a non-exclusive, non-transferable, revocable license to install and use the Software on your personal devices.
+
+2. RESTRICTIONS
+You expressly agree that you will not:
+- Reverse Engineer: Decompile, disassemble, decrypt, or attempt to derive the source code or underlying logic of the Software or its installer.
+- Modify: Alter or create derivative works of the Software or its binary assets.
+- Redistribute: Host, mirror, or republish the Software binaries on any platform other than the official GitHub repository or the official author website.
+- Commercial Use: Sell, rent, lease, or sublicense the Software.
+
+3. SECURITY & INTEGRITY
+The Software includes integrated security and anti-tamper mechanisms (e.g., Custos watchdog). You agree not to bypass, disable, or interfere with these security features.
+
+4. DISCLAIMER
+THE SOFTWARE IS PROVIDED "AS IS". THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES, INCLUDING DATA LOSS OR SYSTEM FAILURE, ARISING FROM THE USE OF THIS SOFTWARE.
+
+5. THIRD-PARTY MARKS
+Dungeons & Dragons and related marks are the property of their respective owners. This is an unofficial, unaffiliated fan project.
