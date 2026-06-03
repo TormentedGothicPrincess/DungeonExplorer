@@ -8,23 +8,19 @@ DE is a enterprise reimagine of the Native Dungeons & Dragons Online Game Launch
 Tip: You can drag and drop your screenshots directly into this markdown file on GitHub, and it will auto-generate the image links for you! 
 -->
 
-<div align="center">
-
+<div align="center"><b>
 
 | Main Window | Settings |
 | :---: | :---: |
 |  <a href="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Main%20Window.png"><img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Main%20Window.png" width="350" alt="Main Window Left 1"></a>  | <a href="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Main%20Window.png"><img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Settings.png" width="350" alt="Main Window Left 1"></a> |
 | Skin Manager | Friend Manager |
-| :---: | :---: |
 | <a href="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Skin%20Management.png"><img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Skin%20Management.png" width="350" alt="Main Window Left 1"></a> | <a href="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Friend%20Management.png"><img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Friend%20Management.png" width="350" alt="Main Window Left 1"></a> |
 | Account Manager | Account Compendium |
-| :---: | :---: |
 | <a href="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Account%20Management.png"><img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Account%20Management.png" width="350" alt="Main Window Left 1"></a> | <a href="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Account%20Compendium.png"><img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Account%20Compendium.png" width="350" alt="Main Window Left 1"></a> |
 | Offline | Profiles |
-| :---: | :---: |
 | <a href="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Main%20Window%20Offline.png"><img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/Main%20Window%20Offline.png" width="350" alt="Main Window Left 1"></a> | |
 
-</div>
+</b></div>
 
 ## 🎨 The CellShader ReImagines
 * Reimagine releases of the Class icons, in hi-res cellshader artistic design
