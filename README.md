@@ -131,7 +131,7 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 * Install, Minion will manage the install locations for both the LIVE and Preview (Lamannia) releases.
 * Uninstall, Minion will manage the uninstall locations for both the LIVE and Preview (Lamannia) releases.
 * Patching, Minion will manage the patching locations for both the LIVE and Preview (Lamannia) releases.
-
+> ⚠️ Limitations: Character Transfers, Dungeon Explorer currently does not support character transfers, see **Limitations** above for more info.
 ---
 
 ## 🔒 Security & Verification
