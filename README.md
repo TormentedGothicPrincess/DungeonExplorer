@@ -126,6 +126,9 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 
 ---
 
+## <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/about_minion.png" height="16" width="16"/> Minion Managed
+
+
 ## 🔒 Security & Verification
 * Releases are verified by
 * 🛡️ Microsoft Security Intelligence: See the Release Notes ${\color{red}analysis.txt}$ for more info.
