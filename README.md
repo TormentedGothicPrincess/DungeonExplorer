@@ -127,11 +127,13 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 ---
 
 ## <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/about_minion.png" height="30" width="30"/> Minion Managed
-> Dungeon Explorer supports Managed installs via Minion (DEM). These are installs where DEM manages the full lifecycle of the product. The Native Launcher (DNDLauncher.exe) is not required for installing, uninstalling or patching.
+Dungeon Explorer supports Managed installs via Minion (DEM). These are installs where DEM manages the full lifecycle of the product with the **Limitations / Exceptions below**. The Native Launcher (DNDLauncher.exe) is not required for installing, uninstalling or patching.
 * Install, Minion will manage the install locations for both the LIVE and Preview (Lamannia) releases.
 * Uninstall, Minion will manage the uninstall locations for both the LIVE and Preview (Lamannia) releases.
 * Patching, Minion will manage the patching locations for both the LIVE and Preview (Lamannia) releases.
-> ⚠️ Limitations: Character Transfers, Dungeon Explorer currently does not support character transfers, see **Limitations** above for more info.
+> ⚠️ Limitations:
+> Character Transfers, Dungeon Explorer currently does not support character transfers, see **Limitations** above for more info.
+> Due to the design nature of the product, DDO / Lamannia make use of shared system registry values. Dungeons Explorer (DEM) will not delete or alter these values. If you are concerened with the orphan nature of registery values, the native client may be able to resolve this for you.
 ---
 
 ## 🔒 Security & Verification
