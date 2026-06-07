@@ -122,14 +122,15 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 > ⚠️ **Limitations:** 
 > 1. Installation | DE will have its own install support ( Managed Deployments ). <i>Installs via the Native Installer will be supported for Launching Only</i>
 > 2. Patching | DE will support patching its own install ( Managed Deployments ). <i>Native Installs will need to use the Native Installer for patching</i>
-> 3. Character Transfers | <i>this might not be something I support, unless adoption/community feedback is positive</i>
+> 3. Character Transfers (Live & Lamannia) | <i>this might not be something I support, unless adoption/community feedback is positive</i>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/about_minion.png" height="30" width="30"/> Minion Managed
-* TBD
-* TBD
-* TBD
+> Dungeon Explorer supports Managed installs via Minion (DEM). These are installs where DEM manages the full lifecycle of the product. The Native Launcher (DNDLauncher.exe) is not required for installing, uninstalling or patching.
+* Install, Minion will manage the install locations for both the LIVE and Preview (Lamannia) releases.
+* Uninstall, Minion will manage the uninstall locations for both the LIVE and Preview (Lamannia) releases.
+* Patching, Minion will manage the patching locations for both the LIVE and Preview (Lamannia) releases.
 
 ---
 
