@@ -142,7 +142,7 @@ Dungeon Explorer supports Managed installs via Minion (DEM). These are installs 
 * 🛡️ VirusTotal: See the Release Notes ${\color{red}analysis.txt}$ for more info.
 * 🛡️ CrowdStrike Falcon Sandbox Verification: See the Release Notes ${\color{red}analysis.txt}$ for more info.
 ---
-* To ensure your download has not been tampered with, you can verify the file integrity using the SHA-256 ${\color{red}checksum.txt}$ provided in the Release Notes.
+* To ensure your download has not been tampered with, you can verify the file integrity using the SHA-256 ${\color{red}checksum.txt}$ provided in the Release Notes. The use of PID tracking and process injection for window renaming can be flagged as 'malware-like behavior' by heuristic engines.
 
 **How to verify via Windows PowerShell:**
 ```
