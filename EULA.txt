@@ -17,4 +17,4 @@ The Software includes integrated security and anti-tamper mechanisms (e.g., Cust
 THE SOFTWARE IS PROVIDED "AS IS". THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES, INCLUDING DATA LOSS OR SYSTEM FAILURE, ARISING FROM THE USE OF THIS SOFTWARE.
 
 5. THIRD-PARTY MARKS
-Dungeons & Dragons and related marks are the property of their respective owners. This is an unofficial, unaffiliated fan project.
+Dungeons & Dragons and related marks are the property of their respective owners. This is an unofficial, unaffiliated fan project. This Software is a functional utility only. All game-related imagery, icons, and lore descriptions are the property of Standing Stone Games and/or Wizards of the Coast. Any artistic 'reimagines' included are fan-art tributes and do not imply ownership. This Software is intended to be used only by individuals who already hold a valid license to the underlying Game.
