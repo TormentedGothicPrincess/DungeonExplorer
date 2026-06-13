@@ -10,3 +10,7 @@ To the maximum extent permitted by applicable law, in no event shall the author 
 
 3. User Responsibility
 By downloading and executing this binary (.exe), you acknowledge that you are doing so at your own risk. You are solely responsible for any damage to your computer system, loss of data, or game account actions (such as bans or suspensions, if applicable) that may result from the use of this software.
+
+Dungeon Explorer uses Windows DPAPI to encrypt credentials locally. However, the Author cannot guarantee against local system compromises, keyloggers on the User's machine, or breaches of third-party game servers. You are solely responsible for the security of your game accounts and are encouraged to use Multi-Factor Authentication where supported by the game provider.
+
+Dungeon Explorer uses standard application hardening techniques. While intended for security, the Author is not responsible for any conflicts between these features and the Game's native Anti-Cheat or security software that may lead to account restrictions.
