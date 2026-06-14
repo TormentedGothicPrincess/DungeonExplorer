@@ -123,6 +123,7 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 > 1. Installation | DE will have its own install support ( Managed Deployments ). <i>Installs via the Native Installer will be supported for Launching Only</i>
 > 2. Patching | DE will support patching its own install ( Managed Deployments ). <i>Native Installs will need to use the Native Installer for patching</i>
 > 3. Character Transfers (Live & Lamannia) | <i>this might not be something I support, unless adoption/community feedback is positive</i>
+> 4. Current Release will support English only, DE/FR are under review.
 
 ---
 
