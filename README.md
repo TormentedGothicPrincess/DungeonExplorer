@@ -93,15 +93,15 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 
 | Component | Specification & Recommendation | Action |
 | :--- | :--- | :--- |
-| **Internet** | Active connection required for updates and data | [↗️Visit](https://rog.asus.com/us/networking-group/) |
-| **Operating System** | Windows 10 / 11 (Recommended: **Windows 11**) | [↗️Download](https://www.microsoft.com/en-us/software-download/windows11) |
-| **.NET Runtime** | Desktop Runtime 8.0.22+ (Recommended: **10.x**) | [↗️Download](https://dotnet.microsoft.com/en-us/download) |
-| **Base Game** | (Native Support) Dungeons & Dragons Online (**High Res textures** recommended) | [↗️Visit](https://www.ddo.com/home) |
-| **Native Launcher** | (Native Support) Required for patching and character transfers | [↗️Download](https://www.ddo.com/guides/ddo-download) |
-| **Memory (RAM)** | 8 GB of RAM (Recommended: **16 GB**) | [↗️Visit](https://www.gskill.com/products/1/165/Desktop-Memory-U-DIMM-CU-DIMM) |
-| **Graphics (GPU)** | 6 GB GPU / 100+ streams/cores (Recommended: **500+**) | [↗️Visit](https://marketplace.nvidia.com/en-us/consumer/graphics-cards/) |
-| **Storage** | 50 MB of available Hard Drive space | [↗️Visit](https://www.samsung.com/us/memory-storage/nvme-ssd/9100-pro-nvme-ssd-sku-mz-vap2t0b-am) |
-| **Audio** | Sound card or integrated audio output | [↗️Visit](https://rog.asus.com/us/motherboards-group/) |
+| **Internet** | Active connection required for updates and data | [Visit](https://rog.asus.com/us/networking-group/) |
+| **Operating System** | Windows 10 / 11 (Recommended: **Windows 11**) | [Download](https://www.microsoft.com/en-us/software-download/windows11) |
+| **.NET Runtime** | Desktop Runtime 8.0.22+ (Recommended: **10.x**) | [Download](https://dotnet.microsoft.com/en-us/download) |
+| **Base Game** | (Native Support) Dungeons & Dragons Online (**High Res textures** recommended) | [Visit](https://www.ddo.com/home) |
+| **Native Launcher** | (Native Support) Required for patching and character transfers | [Download](https://www.ddo.com/guides/ddo-download) |
+| **Memory (RAM)** | 8 GB of RAM (Recommended: **16 GB**) | [Visit](https://www.gskill.com/products/1/165/Desktop-Memory-U-DIMM-CU-DIMM) |
+| **Graphics (GPU)** | 6 GB GPU / 100+ streams/cores (Recommended: **500+**) | [Visit](https://marketplace.nvidia.com/en-us/consumer/graphics-cards/) |
+| **Storage** | 50 MB of available Hard Drive space | [Visit](https://www.samsung.com/us/memory-storage/nvme-ssd/9100-pro-nvme-ssd-sku-mz-vap2t0b-am) |
+| **Audio** | Sound card or integrated audio output | [Visit](https://rog.asus.com/us/motherboards-group/) |
 
 ---
 
