@@ -138,5 +138,15 @@
     "Race": "Tabaxi Trailblazer",
     "Type": "Iconic Race",
     "Vibe": "High-speed acrobatic scout. Vaults off walls with a quarterstaff, moving way too fast to track."
+  },
+  {
+    "Race": "Duergar Mindcleaver",
+    "Type": "Iconic Race",
+    "Vibe": "Conjure psychic axes to shatter enemy resolve with every strike."
+  },
+  {
+    "Race": "Duergar",
+    "Type": "Standard Races",
+    "Vibe": "Tempered in the sunless depths, these grey dwarves are as unyielding as the stone they inhabit."
   }
 ]
