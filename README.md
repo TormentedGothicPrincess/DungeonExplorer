@@ -149,7 +149,7 @@ Dungeon Explorer supports Managed installs via Minion (DEM). These are installs 
 ```
 powershell
 Before install: -> Get-FileHash .\DungeonExplorerInstaller.msi
-After install: -> Get-FileHash .\DungeonExplorer.msi.exe
+After install: -> Get-FileHash .\DungeonExplorer.exe
 ```
 
 ## 🤝 Acknowledgements & Thanks
