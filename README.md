@@ -114,21 +114,21 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 ### Step 2: Installation & First Run
 1. Move the `.msi` file to your preferred directory (e.g., a dedicated folder on your Desktop or your game installation directory).
 2. Launch the application. 
-3. *[Optional Step]* Choose a custom install directory.
+3. *[Optional Step]* Choose a custom install directory. It is recommended to install in a Non-Windows managed location. Avoid installing in <i><u>Root:\\Program Files, Root:\\Program Files (x86), Root:\\Users, Root:\\Windows</u></i>
 
 > ⚠️ **Windows SmartScreen / Antivirus Note:** 
 > Because this is a custom, non-CA signed binary (self-signed) and the source code is private, Windows Defender or your antivirus may trigger a "False Positive" warning (like SmartScreen protecting your PC). This is completely normal for independent indie tools. You may need to click *"More Info"* and *"Run Anyway"*, or add an exclusion in your antivirus settings.
 
 > ⚠️ **Limitations:** 
 > 1. Installation | DE will have its own install support ( Managed Deployments ). <i>Installs via the Native Installer will be supported for Launching Only</i>
-> 2. Patching | DE will support patching its own install ( Managed Deployments ). <i>Native Installs will need to use the Native Installer for patching</i>
+> 2. Patching | DE will support patching its own install ( Managed Deployments ). <i>Native Installs will need to use the Native Installer for patching, DE will warn you of a new Native update.</i>
 > 3. Character Transfers (Live & Lamannia) | <i>this might not be something I support, unless adoption/community feedback is positive</i>
 > 4. Current Release will support English only, DE/FR are under review.
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/about_minion.png" height="30" width="30"/> Minion Managed
-Dungeon Explorer supports Managed installs via Minion (DEM). These are installs where DEM manages the full lifecycle of the product with the **Limitations / Exceptions below**. The Native Launcher (DNDLauncher.exe) is not required for installing, uninstalling or patching.
+Dungeon Explorer supports Managed installs via Minion (DEM). These are installs where DEM manages the full lifecycle of the product with the **Limitations / Exceptions below**. The Native Launcher (DNDLauncher.exe) is not required for installing, uninstalling or patching. We recommand Managing the clients via Minion Manage for full life-cycle care. Depending on multiple factors we see a download and install speed of around 8-18 minutes for Live or Preview.
 * Install, Minion will manage the install locations for both the LIVE and Preview (Lamannia) releases.
 * Uninstall, Minion will manage the uninstall locations for both the LIVE and Preview (Lamannia) releases.
 * Patching, Minion will manage the patching locations for both the LIVE and Preview (Lamannia) releases.
@@ -159,11 +159,13 @@ After install: -> Get-FileHash .\DungeonExplorer.msi.exe
 * Music: Adventure Begins Cinematic by APALONBeats
 * Font: Greyhawk Gothic by Darlene Pekul & Anna B. Meyer
 * Research: ddowiki.com, ddocompendium.com, & eberron.fandom.com
+* See in-app About for more info.
 
 ❤️ Special Thanks
 * Standing Stone Games & Wizards of the Coast
 * The DDO Audit Team & Vault of Kundarak Team
 * June Stepp (OneLauncher)
 * The DDO Community Discord
+* See in-app About for more info.
 
 </br><i>Legal Notice: Dungeon Explorer is proprietary closed-source freeware. By using this software, you agree to the terms outlined in our EULA and Privacy Policy. All rights reserved by TormentedGothicPrincess. This software is an unofficial, fan-made utility provided 100% free of charge. It is not affiliated with, endorsed by, or connected to Microsoft, Standing Stone Games, Wizards of the Coast, or Hasbro, Inc. All trademarks and brand names are the property of their respective owners. If you payed or were charged for this software, report it. © 2026-27 Dungeon Explorer Project. www.tormentedgothicprincess.com</i>
