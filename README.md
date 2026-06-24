@@ -1,5 +1,5 @@
 # <img src="https://github.com/TormentedGothicPrincess/DungeonExplorer/blob/45208431b7582377276ae5b9eb82cd25c3ca2717/Images/about.png" width="32" height="32" alt="Launcher Icon" /> DungeonExplorer 
-DE is a enterprise reimagine of the Native Dungeons & Dragons Online Game Launcher.
+DE is a AAA Enterprise reimagine of the Native Dungeons & Dragons Online Game Launcher.
 
 <img src="https://raw.githubusercontent.com/TormentedGothicPrincess/DungeonExplorer/refs/heads/main/Images/in_beta.png">
 
