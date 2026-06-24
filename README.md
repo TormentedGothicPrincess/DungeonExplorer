@@ -24,7 +24,7 @@ Tip: You can drag and drop your screenshots directly into this markdown file on 
 
 ## 🎨 The Cel-Shader ReImagines
 * Reimagine releases of the Class icons, in hi-res cel-shader artistic design
-* For free public domain use! YAY! See licenses for more details.
+* For free public domain use! YAY! See licenses for more details, as the original art is owned by their respective owners.
 
 <div align="center"><b>
 
